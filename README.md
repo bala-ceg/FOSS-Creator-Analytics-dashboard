@@ -1,2 +1,2 @@
 # linkedin-creator-analytics-dashboard
-Free and Open Source dashboard for LinkedIn creators
+Free and Open Source  data analytics dashboard for LinkedIn creators
